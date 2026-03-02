@@ -1,5 +1,4 @@
-# Architecture-of-Neural-Network
-Architecture-of-Neural-Network by Ashish Patel
+# Architecture-of-Neural-Network by Ashish Patel
 
 # Tools to Design or Visualize the Architecture of a Neural Network
 
